@@ -28,6 +28,10 @@ and proceed with below given steps⤵️.
   c++17
 ```
 
+## 📌 Warning for Auto-Generated Code
+
+Since HackerRank and similar platforms generate boilerplate code for handling input and output, the main solution code is separate. This repository contains the whole code incl. boiler plate and main solution (with //Main Function) written.
+
 ## MinGW Installation Guide
 
 Follow this tutorial to install MinGW:  
