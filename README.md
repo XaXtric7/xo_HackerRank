@@ -2,6 +2,10 @@
 
 This repository contains my solutions to various HackeRank problems, named as per the question title on HackeRank.
 
+## 📌 Warning for Auto-Generated Code
+
+Since HackerRank and similar platforms generate boilerplate code for handling input and output, the main solution code is separate. This repository contains the whole code incl. boiler plate and main solution (with //Main Function) written.
+
 ## 🛠️ How to inlclude <bits/stdc++.h> in Vscode
 
 ```
@@ -27,10 +31,6 @@ and proceed with below given steps⤵️.
 > C++ standard
   c++17
 ```
-
-## 📌 Warning for Auto-Generated Code
-
-Since HackerRank and similar platforms generate boilerplate code for handling input and output, the main solution code is separate. This repository contains the whole code incl. boiler plate and main solution (with //Main Function) written.
 
 ## MinGW Installation Guide
 
