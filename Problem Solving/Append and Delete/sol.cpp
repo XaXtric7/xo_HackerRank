@@ -15,7 +15,7 @@ string rtrim(const string &);
  *  3. INTEGER k
  */
 
-string appendAndDelete(string s, string t, int k)
+string appendAndDelete(string s, string t, int k) // Main function
 {
     int i = 0;
 
